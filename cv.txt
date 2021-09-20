@@ -2,3 +2,4 @@
 
 1. Tokopedia
 2. Lazada
+3. Google
